@@ -6,7 +6,7 @@ Welcome to my first project! In this project, I have been working with a Kaggle 
 
 As a first approach, I have formulated several hypotheses to test by extracting, cleaning, and visualizing data from the dataset. The main hypotheses I will be investigating are:
 
-    Hypothesis 1: Men are more likely to be involved in driving accidents compared to women, and the same may apply to put them life in    risk with shark attacks.
+    Hypothesis 1: Men are more likely to be involved in driving accidents compared to women, and the same may apply to put them life in risk with shark attacks.
     Hypothesis 2: Shark attacks increase year by year, the same as global population growth.
     Hypothesis 3: Weekends have a higher occurrence of shark attacks due to crowded beaches.
     Hypothesis 4: Countries with higher income per capita experience more boat-related shark attacks.
