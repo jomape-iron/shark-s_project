@@ -1,8 +1,3 @@
-
-![Forks](https://img.shields.io/badge/forks-44-blue)
-![Stars](https://img.shields.io/badge/stars-13-yellow)
-
-
 # Welcome to my First Project: Shark Attacks
 
 Welcome to my first project! In this project, I have been working with a Kaggle Dataset called "Shark Attacks," which contains data on reported shark attacks over the past 100 years. The dataset includes information such as the location of the attacks, the activity being performed at the time, victim information (name, gender, age), shark species, and more.
